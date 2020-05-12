@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:38:24 +0800] "POST /order/create.html HTTP/1.1" 500 4203 http-bio-8086-exec-1 56
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:38:24 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8086-exec-2 1
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "POST /order/create.html HTTP/1.1" 200 7388 http-bio-8086-exec-1 530
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8086-exec-2 13
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /js/base-2011.js HTTP/1.1" 200 29063 http-bio-8086-exec-5 1
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8086-exec-7 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /css/base.css HTTP/1.1" 200 48835 http-bio-8086-exec-3 16
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8086-exec-4 5
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8086-exec-6 6
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /js/ego.js HTTP/1.1" 200 647 http-bio-8086-exec-9 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /images/ego-logo.gif HTTP/1.1" 200 36274 http-bio-8086-exec-1 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /images/20130725.png HTTP/1.1" 200 275 http-bio-8086-exec-1 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /images/20130330A_2.png HTTP/1.1" 200 8252 http-bio-8086-exec-9 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8086-exec-6 1
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:45:10 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8086-exec-2 2
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:49:11 +0800] "POST /order/create.html HTTP/1.1" 200 7367 http-bio-8086-exec-4 232
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:16:49:11 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8086-exec-4 1

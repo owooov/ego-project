@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego-pojo" />
+        <module name="ego-manage" />
+        <module name="ego-interface" />
+        <module name="ego-dubbo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ego-dubbo" target="1.7" />
+      <module name="ego-interface" target="1.7" />
+      <module name="ego-manage" target="1.7" />
+      <module name="ego-parent" target="1.5" />
+      <module name="ego-pojo" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

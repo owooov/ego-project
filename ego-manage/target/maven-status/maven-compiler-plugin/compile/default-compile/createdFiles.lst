@@ -1,0 +1,4 @@
+com\ego\manage\service\impl\ItemConsumerServiceImpl.class
+com\ego\manage\controller\PageController.class
+com\ego\manage\service\ItemConsumerService.class
+com\ego\manage\controller\ItemConsumerController.class

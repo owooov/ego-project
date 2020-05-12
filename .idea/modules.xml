@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ego-dubbo/ego-dubbo.iml" filepath="$PROJECT_DIR$/ego-dubbo/ego-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-interface/ego-interface.iml" filepath="$PROJECT_DIR$/ego-interface/ego-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-manage/ego-manage.iml" filepath="$PROJECT_DIR$/ego-manage/ego-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-parent.iml" filepath="$PROJECT_DIR$/ego-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ego-pojo/ego-pojo.iml" filepath="$PROJECT_DIR$/ego-pojo/ego-pojo.iml" />
+    </modules>
+  </component>
+</project>
