@@ -33,7 +33,7 @@
     <commons-io-version>2.2</commons-io-version>
     <aspectjweaver-version>1.8.6</aspectjweaver-version>
     <tomcat7-maven-plugin-version>2.2</tomcat7-maven-plugin-version>
-    <dubbo-version>2.5.7</dubbo-version>
+    <dubbo-version>2.6.12</dubbo-version>
     <zkclient-version>0.10</zkclient-version>
     <jedis-version>2.8.1</jedis-version>
     <ftpclient-version>3.3</ftpclient-version>
