@@ -36,7 +36,7 @@
     <dubbo-version>2.5.7</dubbo-version>
     <zkclient-version>0.10</zkclient-version>
     <jedis-version>2.8.1</jedis-version>
-    <ftpclient-version>3.3</ftpclient-version>
+    <ftpclient-version>3.9.0</ftpclient-version>
     <pagehelper-version>4.1.6</pagehelper-version>
     <solrj-version>7.5.0</solrj-version>
     <junit-version>4.9</junit-version>
